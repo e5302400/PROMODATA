@@ -1,0 +1,30 @@
+{
+  "App-Android": [
+    {
+      "AppTitle": "Temple Run",
+      "IconUrl": "http://www.splendidwallpaper.com/wp-content/uploads/golden_gate_bridge_wallpaper_hd-720x1280.jpg",
+      "Id": "com.area730.dinosimulator",
+      "StoreUrl": "https://play.google.com/store/apps/details?id=com.imangi.templerun"
+    },
+    {
+      "AppTitle": "Temple Run 2",
+      "IconUrl": "http://www.splendidwallpaper.com/wp-content/uploads/golden_gate_bridge_wallpaper_hd-720x1280.jpg",
+      "Id": "com.area730.dinosimulator 2",
+      "StoreUrl": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en"
+    }
+  ],
+  "App-iOS": [
+    {
+      "AppTitle": "Temple Run iOS",
+      "IconUrl": "http://www.splendidwallpaper.com/wp-content/uploads/golden_gate_bridge_wallpaper_hd-720x1280.jpg",
+      "Id": "com.area730.dinosimulator",
+      "StoreUrl": "https://play.google.com/store/apps/details?id=com.imangi.templerun"
+    },
+    {
+      "AppTitle": "Temple Run 2 iOS",
+      "IconUrl": "http://www.splendidwallpaper.com/wp-content/uploads/golden_gate_bridge_wallpaper_hd-720x1280.jpg",
+      "Id": "com.area730.dinosimulator 2",
+      "StoreUrl": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en"
+    }
+  ]
+}
